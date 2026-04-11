@@ -3,7 +3,7 @@
 
 # Hyperion.NG Loader for WebOS by satgit62.
 
-[hyperrion.ng](https://github.com/hyperion-project/hyperion.ng) it is an open-source implementation of bias or ambient lighting, which TV manufacturers may be familiar with. It supports many LED devices and video grabbers and includes a user interface for starting, stopping, and automatically launching the daemon.
+ℹ️ [hyperrion.ng](https://github.com/hyperion-project/hyperion.ng) it is an open-source implementation of bias or ambient lighting, which TV manufacturers may be familiar with. It supports many LED devices and video grabbers and includes a user interface for starting, stopping, and automatically launching the daemon.
 
 ✨ Features
 
