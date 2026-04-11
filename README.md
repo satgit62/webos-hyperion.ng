@@ -1,7 +1,7 @@
 
 <img width="256" height="256" alt="TV mit RGB-Rand und Neontext" src="https://github.com/user-attachments/assets/b3c30039-9ca6-47de-bf4c-c59e648c51f1" />
 
-# hyperion.ng for WebOS by satgit62
+# Hyperion.NG Loader for WebOS by satgit62.
 
 [hyperrion.ng](https://github.com/hyperion-project/hyperion.ng) is an open-source ambient lighting system for TVs and audio systems that is based on real-time analysis of video and audio streams and includes a user interface for starting, stopping, and automatically launching the daemon.
 
