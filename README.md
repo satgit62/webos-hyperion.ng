@@ -1,5 +1,5 @@
 
-<img width="256" height="256" alt="Modern Fernseher mit RGB-Glührahmen" src="https://github.com/user-attachments/assets/4114019f-292b-4745-ac2a-b6043255e9b9" />
+<img width="256" height="256" alt="TV mit RGB-Rand und Neontext" src="https://github.com/user-attachments/assets/b3c30039-9ca6-47de-bf4c-c59e648c51f1" />
 
 # hyperion.ng for WebOS by satgit62
 
