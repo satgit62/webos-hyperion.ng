@@ -8,8 +8,8 @@
   "packages": [
     {
       "id": "org.webosbrew.hyperion.ng.loader",
-      "title": "HyperHDR by satgit62",
-      "iconUri": "https://raw.githubusercontent.com/satgit62/webos-hyperhdr/main/assets/icon.png",
+      "title": "Hyperion.NG by satgit62",
+      "iconUri": "https://raw.githubusercontent.com/satgit62/webos-hyperion.ng/main/assets/icon.png",
       "manifest": {
         "id": "org.webosbrew.hyperion.ng.loader",
         "version": "2.2.1",
