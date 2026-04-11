@@ -3,7 +3,7 @@
 
 # Hyperion.NG Loader for WebOS by satgit62.
 
-[hyperrion.ng](https://github.com/hyperion-project/hyperion.ng) is an open-source ambient lighting system for TVs and audio systems that is based on real-time analysis of video and audio streams and includes a user interface for starting, stopping, and automatically launching the daemon.
+[hyperrion.ng](https://github.com/hyperion-project/hyperion.ng) it is an open-source implementation of bias or ambient lighting, which TV manufacturers may be familiar with. It supports many LED devices and video grabbers and includes a user interface for starting, stopping, and automatically launching the daemon.
 
 ✨ Features
 
@@ -20,5 +20,7 @@
 📷 Screenshots
 
 <img width="3460" height="2200" alt="Screenshot" src="https://github.com/user-attachments/assets/cf6db4ff-e7f5-4657-bba7-56417eaa1240" />
+
+
 
 
