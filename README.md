@@ -1,5 +1,5 @@
 
-<img width="256" height="256" alt="TV mit RGB-Rand und Neontext" src="https://github.com/user-attachments/assets/b3c30039-9ca6-47de-bf4c-c59e648c51f1" />
+<img width="720" height="720" alt="TV mit RGB-Rand und Neontext_720x720" src="https://github.com/user-attachments/assets/a386e46c-4613-4596-948b-5a65a10b5818" />
 
 # Hyperion.NG Loader for WebOS by satgit62.
 
