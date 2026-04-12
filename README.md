@@ -21,6 +21,13 @@
 
 <img width="3460" height="2200" alt="Screenshot" src="https://github.com/user-attachments/assets/cf6db4ff-e7f5-4657-bba7-56417eaa1240" />
 
+💡 Tip
+> To install or update this version directly via the Homebrew Channel, you must add a new repository source in the HBC settings.
+
+The URL is:
+```
+https://satgit62.github.io/webos-hyperion.ng/repo.json
+```
 
 👍 Credits & Source: [Lord-Grey](https://github.com/hyperion-project/hyperion.ng)
 
