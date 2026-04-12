@@ -13,7 +13,7 @@
 
 ✅ Requirements
 
-   * Running HyperHDR instance in your network
+   * Running Hyperion.NG instance in your network
    * LG webOS TV with Homebrew Channel
    * Root access may be required
 
@@ -22,7 +22,7 @@
 <img width="3460" height="2200" alt="Screenshot" src="https://github.com/user-attachments/assets/cf6db4ff-e7f5-4657-bba7-56417eaa1240" />
 
 
-👍 Credits & Source: [Lord-Grey](https://github.com/Lord-Grey/hyperion.ng)
+👍 Credits & Source: [Lord-Grey](https://github.com/hyperion-project/hyperion.ng)
 
 
 
