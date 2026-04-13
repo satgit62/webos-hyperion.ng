@@ -1,6 +1,7 @@
 
 <img width="800" height="142" alt="logoForumMid" src="https://github.com/user-attachments/assets/223fd1bf-4994-4cce-a35c-1058a15e893f" />
 
+
 # Hyperion.NG Loader for WebOS by satgit62.
 
 Bring your Ambilight experience to the next level. Control your Hyperion.NG setup directly from your LG webOS TV – no additional devices required. 
